@@ -1,0 +1,8 @@
+name: HostileEntities
+version: ${project.version}
+main: com.sgd.hostileentities.HostileEntities
+api-version: "1.13"
+prefix: "[SGD]"
+authors: [sleepylapis]
+description: Add some custom hostile entities to server.
+website: ""
